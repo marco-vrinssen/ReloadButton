@@ -1,0 +1,6 @@
+package-as: BentoReloadButton
+
+ignore:
+  - .gitignore
+  - .pkgmeta
+  - README.md
