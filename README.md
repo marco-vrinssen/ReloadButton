@@ -1,13 +1,11 @@
 # Reload Button
 
-World of Warcraft Retail addon that provides quick UI reload with a simple right-click.
+World of Warcraft addon to reload UI with a right-click.
 
 ## Features
 
-- Right-click the main menu button (game menu icon) to instantly reload the UI
-- No need to type `/reload` anymore
+- Reloads UI when right-clicking the main menu button
 
-## Compatibility
+## Usage
 
-- **Interface Version**: 11.2.0 (The War Within)
-- **Game Version**: World of Warcraft Retail
+Right-click the game menu icon to reload.
